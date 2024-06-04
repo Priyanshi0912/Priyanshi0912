@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
- <a href="mywebsite.com" target="blank">
+ <a href="https://priyanshi0912.netlify.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Priyanshi" />
  </a>
  <a href="https://www.linkedin.com/in/priyanshi912/" target="_blank">
